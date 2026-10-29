@@ -22,3 +22,6 @@ This repository contains a simple website for Green Bikes, a fictional company t
 
 Open the `index.html` file in a web browser.
 
+## Website
+
+Visit the website: https://antonio334423.github.io/ed-git-website/
